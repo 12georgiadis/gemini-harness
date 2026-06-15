@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use or cite this work, please credit it as below."
+title: "gemini-harness"
+abstract: ""
+type: software
+authors:
+  - given-names: "Ismaël"
+    family-names: "Joffroy Chandoutis"
+    website: "https://github.com/12georgiadis"
+repository-code: "https://github.com/12georgiadis/gemini-harness"
+url: "https://github.com/12georgiadis/gemini-harness"
+license: PolyForm-Noncommercial-1.0.0
